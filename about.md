@@ -1,7 +1,7 @@
 # About
 
 ### What
-“$ustain” will be a one day un-conference for open source software sustainers. There will be no no keynotes, expo halls or talks. Only discussions and ideas about getting and distributing money or in-kind services to the Open Source community.
+“$ustain” will be a one day un-conference for open source software sustainers. There will be no keynotes, expo halls or talks. Only discussions and ideas about getting and distributing money or in-kind services to the Open Source community.
 
 ### Sustainer?
 A sustainer is someone who evangelizes and passionately advocates for needs of open source contributors.
